@@ -1,0 +1,72 @@
+body{
+    background: lightskyblue;
+    color: white;
+}
+
+.MAIN{
+    color: purple;
+    text-align: center;
+}
+
+.MAIN:hover{
+    cursor: pointer;
+}
+
+.SECONDARY{
+    color: violet;
+    text-align: center;
+}
+ 
+#identity{
+    color: blue;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.headerex{
+    text-align: center;
+}
+
+p{
+    color: grey;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul, ol{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    transition: 0.5s all ease ;
+}
+
+img:hover{
+    filter: opacity(70%);
+    border-radius: 80px;
+    cursor: pointer;
+}
+
+div{
+    height: 400px;
+    width: 30%;
+    background: #333;
+    padding: 40px;
+    margin: 10px;
+    margin-right: 20px;
+    float: left;
+    border: 3px solid blue;
+    border-radius: 30px;
+}
+
+button{
+    
+}
